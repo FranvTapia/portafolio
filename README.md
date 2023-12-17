@@ -10,7 +10,7 @@ Practica laboral | CESFAM Santa Teresa(2023-2024) Desarrollo/Diseño aplicación
 
 ## Proyectos
 ### Case Study: How Can a Wellness Technology Company Play It Smart?
-[Publication]([https://www.mdpi.com/1424-8220/22/8/3048](https://rpubs.com/Fran_tapia/1040727))
+[Presiona aquí para ver mi Case Study](https://rpubs.com/Fran_tapia/1040727)
 
-El propósito de este case study es encontrar tendencias que permitan entregar recomendaciones de marketing utilizando *R*.El Dataset es de Fitbit, contiene la información de rastreo de 33 usuarios, compilando datos como pasos diarios, minutos de sueño y cantidad de calorías, categorizadas de forma diaria o por hora.
+El propósito de este Case Study es encontrar tendencias que permitan entregar recomendaciones de marketing utilizando *R*.El Dataset es de Fitbit, contiene la información de rastreo de 33 usuarios, compilando datos como pasos diarios, minutos de sueño y cantidad de calorías, categorizadas de forma diaria o por hora.
 ![Bellabear](/Imagenes/case_study1.png)
