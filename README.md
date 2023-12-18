@@ -5,6 +5,10 @@
 - Química y Farmacia | USACH (_2020-2022_)
 - Informática Biomédica | DUOC UC (_2022- 2025_)
 
+### Certificaciones
+- Google Data Analytics
+- Microsoft Azure: AI fundamentals
+
 ### Experiencia Laboral
 - Practica laboral | CESFAM Santa Teresa(_2023-2024_) Desarrollo/Diseño aplicación y Bot informativos 
 
