@@ -18,4 +18,6 @@ El propósito de este Case Study es encontrar tendencias utilizando **R** ,que p
 
 ### Asistente Virtual de Whatsapp: Teresita
 
-![Teresita](/Imagenes/Teresita.png) Bot de Whatsapp desarrollado usando DialogFlow de Google. Su propósito es entregar información y actualizaciones a los usuarios del CESFAM Santa Teresa. Es navegable mediante Menú numérico y reconocimiento de entidades.
+Bot de Whatsapp desarrollado usando DialogFlow de Google. Su propósito es entregar información y actualizaciones a los usuarios del CESFAM Santa Teresa. Es navegable mediante Menú numérico y reconocimiento de entidades.
+
+![Teresita](/Imagenes/Teresita.png) 
