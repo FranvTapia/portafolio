@@ -14,4 +14,10 @@
 
 El propósito de este Case Study es encontrar tendencias utilizando **R** ,que permitan entregar recomendaciones de marketing a Bellabeat, empresa de innovación tecnologica del bienestar.
 
-![Bellabear](/Imagenes/case_study1.png)
+![Bellabeat](/Imagenes/case_study1.png)
+
+### Asistente Virtual de Whatsapp: Teresita
+
+Bot de Whatsapp desarrollado usando DialogFlow de Google. Su propósito es entregar información y actualizaciones a los usuarios del CESFAM Santa Teresa. Es navegable mediante Menú numérico y reconocimiento de entidades.
+
+![Teresita](/Imagenes/Teresita.png)
