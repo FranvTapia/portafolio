@@ -16,19 +16,25 @@
 
 # Proyectos
 ## Proyectos en R
-### Case Study: How Can a Wellness Technology Company Play It Smart?
+### 1. Case Study: How Can a Wellness Technology Company Play It Smart?
 [Presiona aquí para ver mi Case Study](https://rpubs.com/Fran_tapia/1040727)
 
 El propósito de este Case Study es encontrar tendencias utilizando **R** ,que permitan entregar recomendaciones de marketing a Bellabeat, empresa de innovación tecnologica del bienestar.
 
 ![Bellabeat](/Imagenes/case_study1.png)
 
-### Análisis estadístico de la relación entre los niveles de depresión y hábitos músicales
+### 2. Análisis estadístico de la relación entre los niveles de depresión y hábitos músicales
 [Presiona aquí para ver mi Análisis](https://rpubs.com/Fran_tapia/1205081)
 
 El proposito de este análisis es **identificar si existe alguna relación entre los niveles de depresión autopercibidad y los habitos musicales de los participantes**. Esto puede contribuir al desarrollo orientativo de la musicoterapia y/o terapias psicológicas para la depresión.
 
 ![Intervalos](/Imagenes/ib.png) 
+
+## Proyectos en Power BI
+## Proyectos en SQL
+
+
+## Proyectos independientes
 
 ### Asistente Virtual de Whatsapp: Teresita
 
