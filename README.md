@@ -1,4 +1,4 @@
-<img width="488" alt="image" src="https://github.com/user-attachments/assets/26e21fca-8200-4821-b90d-a1051d90f596"># Informática Biomédica
+
 #### Habilidades Técnicas: R , SQL, Excel, Power BI, Python
 
 ### Educación
@@ -28,7 +28,7 @@ El propósito de este Case Study es encontrar tendencias utilizando **R** ,que p
 
 El proposito de este análisis es **identificar si existe alguna relación entre los niveles de depresión autopercibidad y los habitos musicales de los participantes**. Esto puede contribuir al desarrollo orientativo de la musicoterapia y/o terapias psicológicas para la depresión.
 
-![Intervalos](/Imagenes/intervalos.png) 
+![Intervalos](/Imagenes/ib.png) 
 
 ### Asistente Virtual de Whatsapp: Teresita
 
