@@ -1,5 +1,5 @@
-# Informática Biomédica
-#### Habilidades Técnicas: Python, SQL, R, Excel, Power BI
+<img width="488" alt="image" src="https://github.com/user-attachments/assets/26e21fca-8200-4821-b90d-a1051d90f596"># Informática Biomédica
+#### Habilidades Técnicas: R , SQL, Excel, Power BI, Python
 
 ### Educación
 - Química y Farmacia | USACH (_2020-2022_)
@@ -14,7 +14,8 @@
 - Lider de proyecto  | CESFAM Joaquin Baeza y CESFAM Santa Teresa(_2024-2025_) Implementación de Bot informativo para Modelo de Acodiga
 - Tutora de Bioestadística | DUOC UC (2024) | Clases de reforzamiento de Bioestadística 
 
-## Proyectos
+# Proyectos
+## Proyectos en R
 ### Case Study: How Can a Wellness Technology Company Play It Smart?
 [Presiona aquí para ver mi Case Study](https://rpubs.com/Fran_tapia/1040727)
 
@@ -22,8 +23,17 @@ El propósito de este Case Study es encontrar tendencias utilizando **R** ,que p
 
 ![Bellabeat](/Imagenes/case_study1.png)
 
+### Análisis estadístico de la relación entre los niveles de depresión y hábitos músicales
+[Presiona aquí para ver mi Análisis](https://rpubs.com/Fran_tapia/1205081)
+
+El proposito de este análisis es **identificar si existe alguna relación entre los niveles de depresión autopercibidad y los habitos musicales de los participantes**. Esto puede contribuir al desarrollo orientativo de la musicoterapia y/o terapias psicológicas para la depresión.
+
+![Intervalos](/Imagenes/intervalos.png) 
+
 ### Asistente Virtual de Whatsapp: Teresita
 
 Bot de Whatsapp desarrollado usando DialogFlow de Google. Su propósito es entregar información y actualizaciones a los usuarios del CESFAM Santa Teresa. Es navegable mediante Menú numérico y reconocimiento de entidades.
 
 ![Teresita](/Imagenes/Teresita.png) 
+
+
