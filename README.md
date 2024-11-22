@@ -1,6 +1,6 @@
 # Informática Biomédica
 
-#### Habilidades Técnicas: R , SQL, Excel, Power BI, Python
+#### Habilidades Técnicas: R ,Power BI, Excel, SQL, Python
 #### Habilidades blandas: Pensamiento crítico, gestión del tiempo, comunicación efectiva, adaptabilidad, trabajo en equipo, empatía y proactividad. 
 
 ### Educación
@@ -40,8 +40,6 @@ entregas incompletas se concentran en el Ibuprofeno (36.6%), seguido del
 paracetamol (26.6%) Además, entre abril y agosto se muestran picos en las
 entregas incompletas, lo cual podría ser indicativo de problemas específicos en la
 cadena de suministro o en la gestión de inventarios durante esos períodos. 
-
-## Proyectos en SQL
 
 
 ## Proyectos independientes
