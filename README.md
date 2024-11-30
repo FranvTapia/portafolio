@@ -15,23 +15,24 @@ Mis habilidades técnicas son:
 # Mis proyectos
 ## Proyectos en ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-### Case Study: How Can a Wellness Technology Company Play It Smart?
-[Presiona aquí para ver mi Case Study](https://rpubs.com/Fran_tapia/1040727)
-
-El propósito de este Case Study es encontrar tendencias utilizando **R** ,que permitan entregar recomendaciones de marketing a Bellabeat, empresa de innovación tecnologica del bienestar.
-
-![Bellabeat](/Imagenes/case_study1.png)
-
-### Análisis estadístico de la relación entre los niveles de depresión y hábitos músicales
-[Presiona aquí para ver mi Análisis](https://rpubs.com/Fran_tapia/1205081)
+### Análisis estadístico descriptivo de la relación entre los niveles de depresión y hábitos músicales
+[Presiona aquí para ver mi Análisis completo en RPubs](https://rpubs.com/Fran_tapia/1205081)
 
 El proposito de este análisis es **identificar si existe alguna relación entre los niveles de depresión autopercibidad y los habitos musicales de los participantes**. Esto puede contribuir al desarrollo orientativo de la musicoterapia y/o terapias psicológicas para la depresión.
 
 ![Intervalos](/Imagenes/ib.png) 
 
+### Case Study: How Can a Wellness Technology Company Play It Smart?
+[Presiona aquí para ver mi Case Study completo en Rpubs](https://rpubs.com/Fran_tapia/1040727)
+
+El propósito de este Case Study es encontrar tendencias que permitan entregar recomendaciones de marketing a Bellabeat, empresa de innovación tecnologica del bienestar.
+
+![Bellabeat](/Imagenes/case_study1.png)
+
+
 ## Proyectos en ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ### Dashboard para KPI de Farmacia de CESFAM.
-Para este proyecto se usó una base de datos ficticia sobre las entregas de medicamentos en la farmacia de un CESFAM en busca de mejorar su eficiancia. Se crearon KPI para el proyecto y luego Dashboard para cada uno de ellos. Aquí hay un ejemplo:
+Para este proyecto se usó una base de datos simulada sobre las entregas de medicamentos en la farmacia de un Hospital en busca de mejorar su eficiancia mediante indicadores de desempeño (KPI) acompañados de dashboard de Power BI.
 ![bi](/Imagenes/BI.png) Este dashboard nos muestra que la mayor parte de las
 entregas incompletas se concentran en el Ibuprofeno (36.6%), seguido del
 paracetamol (26.6%) Además, entre abril y agosto se muestran picos en las
