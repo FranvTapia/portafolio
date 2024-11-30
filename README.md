@@ -29,7 +29,7 @@ El proposito de este análisis es **identificar si existe alguna relación entre
 
 ![Intervalos](/Imagenes/ib.png) 
 
-## Proyectos en Power BI
+## Proyectos en ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ### Dashboard para KPI de Farmacia de CESFAM.
 Para este proyecto se usó una base de datos ficticia sobre las entregas de medicamentos en la farmacia de un CESFAM en busca de mejorar su eficiancia. Se crearon KPI para el proyecto y luego Dashboard para cada uno de ellos. Aquí hay un ejemplo:
 ![bi](/Imagenes/BI.png) Este dashboard nos muestra que la mayor parte de las
