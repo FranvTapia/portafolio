@@ -1,7 +1,8 @@
 # Informática Biomédica
-Soy estudiante de Informatica Biomédica. Me especializo en el análisis de datos y la bioestadistica. En mi portafolio podrás revisar algunos de los proyectos que he realizado.
+Me especializo en el análisis de datos y la bioestadistica. En mi portafolio podrás revisar algunos de los proyectos que he realizado.
 
 Mis habilidades técnicas son:
+
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 	![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
