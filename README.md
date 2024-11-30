@@ -1,5 +1,7 @@
 # Informática Biomédica
+Soy estudiante de Informatica Biomédica. Me especializo en el análisis de datos y la bioestadistica. En mi portafolio podrás revisar algunos de los proyectos que he realizado.
 
+Mis habilidades técnicas son:
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 	![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -8,21 +10,10 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-### Educación
-- Química y Farmacia | USACH (_2020-2022_)
-- Informática Biomédica | DUOC UC (_2022- 2025_)
 
-### Certificaciones principales
-- Google Data Analytics
-- Microsoft Azure: AI fundamentals
+# Mis proyectos
+## Proyectos en ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-### Experiencia Laboral
-- Practica laboral | CESFAM Santa Teresa(_2023-2024_) Desarrollo/Diseño aplicación y Bot informativos
-- Lider de proyecto  | CESFAM Joaquin Baeza y CESFAM Santa Teresa(_2024-2025_) Implementación de Bot informativo para Modelo de Acodiga
-- Tutora de Bioestadística | DUOC UC (2024) | Clases de reforzamiento de Bioestadística 
-
-# Proyectos
-## Proyectos en R
 ### Case Study: How Can a Wellness Technology Company Play It Smart?
 [Presiona aquí para ver mi Case Study](https://rpubs.com/Fran_tapia/1040727)
 
