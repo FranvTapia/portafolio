@@ -18,7 +18,7 @@ Mis habilidades técnicas son:
 ### Análisis estadístico descriptivo de la relación entre los niveles de depresión y hábitos músicales
 [Presiona aquí para ver mi Análisis completo en RPubs](https://rpubs.com/Fran_tapia/1205081)
 
-El proposito de este análisis es **identificar si existe alguna relación entre los niveles de depresión autopercibidad y los habitos musicales de los participantes**. Esto puede contribuir al desarrollo orientativo de la musicoterapia y/o terapias psicológicas para la depresión.
+El proposito de este análisis es identificar si existe alguna relación entre los niveles de depresión autopercibidad y los habitos musicales de los participantes. Esto puede contribuir al desarrollo orientativo de la musicoterapia y/o terapias psicológicas para la depresión.
 
 ![Intervalos](/Imagenes/ib.png) 
 
