@@ -44,7 +44,7 @@ cadena de suministro o en la gestión de inventarios durante esos períodos.
 
 ### Asistente Virtual de Whatsapp: Teresita
 
-Bot de Whatsapp desarrollado usando DialogFlow de Google. **Su propósito es entregar información y actualizaciones a los usuarios del CESFAM Santa Teresa**. Es navegable mediante Menú numérico y reconocimiento de entidades.
+Bot de Whatsapp desarrollado usando DialogFlow de Google. Su propósito es entregar información y actualizaciones a los usuarios del CESFAM Santa Teresa. Es navegable mediante Menú numérico y reconocimiento de entidades.
 
 ![Teresita](/Imagenes/Teresita.png) 
 
