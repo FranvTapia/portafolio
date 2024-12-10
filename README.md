@@ -15,12 +15,19 @@ Mis habilidades técnicas son:
 # Mis proyectos
 ## Proyectos en ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-### Análisis estadístico descriptivo de la relación entre los niveles de depresión y hábitos músicales
+### Análisis descriptivo/inferencial: Relación entre trastornos mentales y consumo de drogas
+[Presiona aquí para ver mi Análisis completo en RPubs](https://rpubs.com/Fran_tapia/1255541)
+
+Se utilizan datos de la Décima Encuesta Nacional de Juventudes (2022) en busca de identificar patrones de consumo de sustancias como alcohol, tabaco y cannabis, en relación con trastornos mentales como ansiedad, depresión y TDAH, proporcionando evidencia que oriente estrategias de intervención y políticas públicas integrales.
+
+![Intervalos](/Imagenes/ib.png) 
+
+### Análisis descriptivo de la relación entre los niveles de depresión y hábitos músicales
 [Presiona aquí para ver mi Análisis completo en RPubs](https://rpubs.com/Fran_tapia/1205081)
 
 El proposito de este análisis es identificar si existe alguna relación entre los niveles de depresión autopercibidad y los habitos musicales de los participantes. Esto puede contribuir al desarrollo orientativo de la musicoterapia y/o terapias psicológicas para la depresión.
 
-![Intervalos](/Imagenes/ib.png) 
+![Mental](/Imagenes/mental.png) 
 
 ### Case Study: How Can a Wellness Technology Company Play It Smart?
 [Presiona aquí para ver mi Case Study completo en Rpubs](https://rpubs.com/Fran_tapia/1040727)
