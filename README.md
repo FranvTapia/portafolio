@@ -18,7 +18,7 @@ Mis habilidades técnicas son:
 ### Análisis descriptivo/inferencial: Relación entre trastornos mentales y consumo de drogas
 [Presiona aquí para ver mi Análisis completo en RPubs](https://rpubs.com/Fran_tapia/1255541)
 
-Se utilizan datos de la Décima Encuesta Nacional de Juventudes (2022) en busca de identificar patrones de consumo de sustancias como alcohol, tabaco y cannabis, en relación con trastornos mentales como ansiedad, depresión y TDAH, proporcionando evidencia que oriente estrategias de intervención y políticas públicas integrales.
+Utilicé datos de la Décima Encuesta Nacional de Juventudes (2022) en busca de identificar patrones de consumo de sustancias como alcohol, tabaco y cannabis, en relación con trastornos mentales como ansiedad, depresión y TDAH, proporcionando evidencia que oriente estrategias de intervención y políticas públicas integrales.
 
 ![Mental](/Imagenes/mental.png) 
 
