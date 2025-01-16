@@ -55,4 +55,7 @@ Bot de Whatsapp desarrollado usando DialogFlow de Google. Su propósito es entre
 
 ![Teresita](/Imagenes/Teresita.png) 
 
+## Resumenes
+Resumen Sist. Vig Epidemiológica [Presiona aquí para ver](https://rpubs.com/Fran_tapia/ResumenSVE)
+
 
